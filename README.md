@@ -10,7 +10,7 @@ c.	Voy a crear una base de datos en mysql en un dominio y hosting externo con la
 [users] tiene los campos username, email y password para poder registrame y loguearme.
 
 Nota: Estas tablas se van a crear a través del ORM sequelize
-Nota2: El Endpoint de customers está protegido con un middleware, es decir que debo logearme con un usuario registrado y utilizando un token.
+Nota2: El Endpoint de customers está protegido con un middleware, es decir que debo loguearme con un usuario registrado y utilizando un token.
 Nota3: El Endpoint de providers no necesita loguearse, es decir puedo acceder directo en la url de los distintos métodos.
 d.	Voy a probarla con las herramientas Postman, Insomnia o desde el mismo id VSC a través de su plugin respectivo
 e.	Lenguaje JavaScript, entorno nodeJS, framework Express
